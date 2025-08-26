@@ -1,0 +1,20 @@
+Hola, Alejandro:
+
+Hemos conseguido tener los resultados hoy y ya te puedo pasar el informe final del proyecto JaMic con los genotipos de 26 individuos de Munidopsis polymorpha con 8 loci microsatélites.
+
+Ahora ya puedes acceder a los resultados y a los datos en bruto a través de los enlaces que hay en el informe que te adjunto.
+
+Respecto de las repeticiones que hemos hecho de la Multiplex 3, quería comentarte un par de cosas:
+
+ - El individuo MP.L12 sigue generando un patrón muy raro en los fluorocromos. Sin embargo, los picos se pueden leer. Como tenéis prisa por tener los resultados, lo he incluido en el análisis y los datos en bruto, pero si crees que tenemos que repetirlo, podemos hacerlo.
+
+- Los electroferogramas de la Multiplex 3 se han corrido en dos máquinas diferentes en las que se utilizó una Standard Dye diferente. Aún así, no hay problema para escalar los electroferogramas y leer los picos de los diferentes individuos.
+
+- Los picos de la Multiplex 3, sobretodo del locus Mp-6 tienen una señal baja, pero los individuos que han funcionado muestran un patrón claro.
+
+Espero que los resultados sean muy interesantes para el proyecto. Mucho ánimo con el informe y ya sabes, si necesitas algo más o tienes alguna pregunta sobre el informe y/o los resultados, no dudes en avisar. 
+
+Muchas gracias y un abrazo!
+
+Neus
+	
